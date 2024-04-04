@@ -23,7 +23,7 @@ A video call application made with [React.js](https://reactjs.org/) + [Socket] +
 1. Install the dependencies and start the server.
 
 ```sh
-git clone https://github.com/adarsharyan002/Vid.io.git
+git clone https://github.com/YashaHirekhan/Vid.io.git
 
 cd Vid.io
 npm install
